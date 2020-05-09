@@ -5,7 +5,7 @@ This repository holds all supplemental files for "Gene expression of the IGF hor
 **Insert abstract here**
 
 ### Quick Key to File Directory: Detailed Descriptions of file use can be found below.
-File Type                            |
+File Type |
 ------------------------------------ | -----------------------------------------------------
 Protocols and interactive worksheets | [Molecular Protocol](Brown.Anole.qPCR.Protocol.pdf) 
                                      | [Appendix A: Primer Design](Appendix_A.Primer_Design.txt)
