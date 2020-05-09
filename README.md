@@ -3,7 +3,25 @@ This repository holds all supplemental files for "Gene expression of the IGF hor
 
 ## Publication Abstract: 
 
-###  
+### Quick Key to File Directory: Detailed Descriptions of file use can be found below.
+##### Protocols and interactive worksheets
+[Molecular Protocol](Brown.Anole.qPCR.Protocol.pdf)
+[Appendix A: Primer Design](Appendix_A.Primer_Design.txt)
+[Appendix B: Standard Preparation](Appendix_B.Standard.Prep.Worksheet.xlsx)
+[Appendix C: qPCR Calculations](Appendix_C.qPCR.Calculations.xlsx)
+##### Raw Data
+[Plate 1](qPCR_Plate_10_24.zip)
+[Plate 2](qPCR_Plate_2.zip)
+##### Final Data 
+[IGFs and EEF2 Final](combined.data.final.csv)
+[IGF1 Undiluted](undiluted.samples.csv)
+[Presence Absence Heatmap](heatmap.data2.csv)
+##### Statistical Code
+[Code](Publication_Code.Rmd)
+[Code output](Publication_Code.html)
+##### Sample Classification
+[Gel images](Presence.Absence.Gel.Images.pptx)
+
 
 ### Molecular Protocols 
 The protocol for molecular processes used in this experiment, RNA extraction through qPCR analysis, can be found [here](Brown.Anole.qPCR.Protocol.pdf). 
@@ -18,4 +36,4 @@ The [file](undiluted.samples.csv) containing undiluted amplifications of IGF1 wa
 The statistical analyses were performed in R (version 3.5.1) using [code](Publication_Code.Rmd) in an R Markdown format. [Code output](Publication_Code.html) displays all statistical models, results, and figures produced. 
 
 ### Presence-Absence Visualization
-Following conventional PCR, gel electrophoresis was used to visualize samples as being present, or absent. [Gel images](Presence.Absence.Gel.Images.ppt) were used to classify samples. The file used to create the expression [heatmap](heatmap.data2.csv) contains the average percentage of indivdiuals that expressed each gene (IGF1, IGF2, and IGFBPs) across tissues. 
+Following conventional PCR, gel electrophoresis was used to visualize samples as being present, or absent. [Gel images](Presence.Absence.Gel.Images.pptx) were used to classify samples. The file used to create the expression [heatmap](heatmap.data2.csv) contains the average percentage of indivdiuals that expressed each gene (IGF1, IGF2, and IGFBPs) across tissues. 
