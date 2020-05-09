@@ -26,6 +26,9 @@ The protocol for molecular processes used in this experiment, RNA extraction thr
 
 Within the molecular protocol, a series of appendices are referenced. [Appendix A](Appendix_A.Primer_Design.txt) contains the gene sequences for IGF1, IGF2, and EEF2 that were used for primer and probe design. [Appendix B](Appendix_B.Standard.Prep.Worksheet.xlsx) contains the excels spreadsheet used to prepare the absolute standard curve. If downloaded, this sheet is easily amendable for use. [Appendix C](Appendix_C.qPCR.Calculations.xlsx) contains an amendable spreadsheet for qPCR mastermix preparation and plate setup. 
 
+### Sequence Verification of Primers
+Each primer pair amplification for IGF1, IGF2, the IGFBPs, and EEF2 was verified by sequencing. The [sequencing files](Primer.Seqeuencing.Results.zip) contain the raw seqences, Geneious sequencing alignments to references, and alignment images. 
+
 ### qPCR Amplification Data Output 
 Raw data output files for two plates of qPCR amplification ([Plate 1](qPCR_Plate_10_24.zip) and [Plate 2](qPCR_Plate_2.zip)) were exported from the Bio-Rad CFX Maestro qPCR Analysis Program. Triplicates were examined for consistancy, and any triplicate more than 0.25 cycles from the mean were discluded from the analysis. If more than one sample from a triplication was outside of the cutoff, the sample was dropped from analysis. The [final data set](combined.data.final.csv) contains only samples used in statistical analysis.
 The [file](undiluted.samples.csv) containing undiluted amplifications of IGF1 was used in order to verify negative IGF1 results seen at a cDNA concentration of 1:100. 
