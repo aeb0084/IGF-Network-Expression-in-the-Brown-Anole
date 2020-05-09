@@ -5,23 +5,20 @@ This repository holds all supplemental files for "Gene expression of the IGF hor
 **Insert abstract here**
 
 ### Quick Key to File Directory: Detailed Descriptions of file use can be found below.
-##### Protocols and interactive worksheets
-* [Molecular Protocol](Brown.Anole.qPCR.Protocol.pdf)
-* [Appendix A: Primer Design](Appendix_A.Primer_Design.txt)
-* [Appendix B: Standard Preparation](Appendix_B.Standard.Prep.Worksheet.xlsx)
-* [Appendix C: qPCR Calculations](Appendix_C.qPCR.Calculations.xlsx)
-##### Raw Data
-* [Plate 1](qPCR_Plate_10_24.zip)
-* [Plate 2](qPCR_Plate_2.zip)
-##### Final Data 
-* [IGFs and EEF2 Final](combined.data.final.csv)
-* [IGF1 Undiluted](undiluted.samples.csv)
-* [Presence Absence Heatmap](heatmap.data2.csv)
-##### Statistical Code
-* [Code](Publication_Code.Rmd)
-* [Code output](Publication_Code.html)
-##### Sample Classification
-* [Gel images](Presence.Absence.Gel.Images.pptx)
+File Type                            |
+------------------------------------ | -----------------------------------------------------
+Protocols and interactive worksheets | [Molecular Protocol](Brown.Anole.qPCR.Protocol.pdf) 
+                                     | [Appendix A: Primer Design](Appendix_A.Primer_Design.txt)
+                                     | [Appendix B: Standard Preparation](Appendix_B.Standard.Prep.Worksheet.xlsx)
+                                     | [Appendix C: qPCR Calculations](Appendix_C.qPCR.Calculations.xlsx)
+Raw Data                             | [Plate 1](qPCR_Plate_10_24.zip)
+                                     | [Plate 2](qPCR_Plate_2.zip)
+Final Data                           | [IGFs and EEF2 Final](combined.data.final.csv)
+                                     | [IGF1 Undiluted](undiluted.samples.csv)
+                                     | [Presence Absence Heatmap](heatmap.data2.csv)
+Statistical Code                     | [Code](Publication_Code.Rmd)
+                                     | [Code output](Publication_Code.html)
+Sample Classification                | [Gel images](Presence.Absence.Gel.Images.pptx)
 
 
 ### Molecular Protocols 
