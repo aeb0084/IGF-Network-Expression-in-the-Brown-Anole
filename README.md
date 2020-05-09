@@ -1,6 +1,10 @@
 # IGF-Network-Expression-in-the-Brown-Anole
 This repository holds all supplemental files for "Gene expression of the IGF hormones and IGF binding proteins across time and tissues in a model reptile".
 
+## Publication Abstract: 
+
+###  
+
 ### Molecular Protocols 
 The protocol for molecular processes used in this experiment, RNA extraction through qPCR analysis, can be found [here](Brown.Anole.qPCR.Protocol.pdf). 
 
@@ -14,4 +18,4 @@ The [file](undiluted.samples.csv) containing undiluted amplifications of IGF1 wa
 The statistical analyses were performed in R (version 3.5.1) using [code](Publication_Code.Rmd) in an R Markdown format. [Code output](Publication_Code.html) displays all statistical models, results, and figures produced. 
 
 ### Presence-Absence Visualization
-The file used to create the expression [heatmap](heatmap.data2.csv) contains the average percentage of indivdiuals that expressed each gene (IGF1, IGF2, and IGFBPs) across tissues. 
+Following conventional PCR, gel electrophoresis was used to visualize samples as being present, or absent. [Gel images](Presence.Absence.Gel.Images.ppt) were used to classify samples. The file used to create the expression [heatmap](heatmap.data2.csv) contains the average percentage of indivdiuals that expressed each gene (IGF1, IGF2, and IGFBPs) across tissues. 
