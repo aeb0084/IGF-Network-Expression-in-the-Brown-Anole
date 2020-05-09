@@ -1,0 +1,71 @@
+Term,Stage,Gene,Expression
+Stage 2,1,BP1,100
+Stage 6,2,BP1,100
+Stage 16,3,BP1,100
+Brain,4,BP1,100
+Gonad,5,BP1,100
+Heart,6,BP1,100
+Liver,7,BP1,100
+Muscle,8,BP1,87.5
+Tail,8,BP1,100
+Reg. Tail,10,BP1,100
+Stage 2,1,BP2,100
+Stage 6,2,BP2,100
+Stage 16,3,BP2,100
+Brain,4,BP2,100
+Gonad,5,BP2,100
+Heart,6,BP2,100
+Liver,7,BP2,100
+Muscle,8,BP2,100
+Tail,8,BP2,100
+Reg. Tail,10,BP2,100
+Stage 2,1,BP3,10
+Stage 6,2,BP3,100
+Stage 16,3,BP3,100
+Brain,4,BP3,87.5
+Gonad,5,BP3,75
+Heart,6,BP3,37.5
+Liver,7,BP3,87.5
+Muscle,8,BP3,12.5
+Tail,8,BP3,50
+Reg. Tail,10,BP3,37.5
+Stage 2,1,BP4,100
+Stage 6,2,BP4,100
+Stage 16,3,BP4,100
+Brain,4,BP4,100
+Gonad,5,BP4,100
+Heart,6,BP4,100
+Liver,7,BP4,100
+Muscle,8,BP4,75
+Tail,8,BP4,100
+Reg. Tail,10,BP4,100
+Stage 2,1,BP5,100
+Stage 6,2,BP5,100
+Stage 16,3,BP5,100
+Brain,4,BP5,100
+Gonad,5,BP5,100
+Heart,6,BP5,100
+Liver,7,BP5,87.5
+Muscle,8,BP5,37.5
+Tail,8,BP5,50
+Reg. Tail,10,BP5,75
+Stage 2,1,IGF1,0
+Stage 6,2,IGF1,0
+Stage 16,3,IGF1,100
+Brain,4,IGF1,100
+Gonad,5,IGF1,100
+Heart,6,IGF1,100
+Liver,7,IGF1,100
+Muscle,8,IGF1,100
+Tail,8,IGF1,100
+Reg. Tail,10,IGF1,100
+Stage 2,1,IGF2,100
+Stage 6,2,IGF2,100
+Stage 16,3,IGF2,100
+Brain,4,IGF2,100
+Gonad,5,IGF2,100
+Heart,6,IGF2,100
+Liver,7,IGF2,100
+Muscle,8,IGF2,100
+Tail,8,IGF2,100
+Reg. Tail,10,IGF2,100
