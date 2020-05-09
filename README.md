@@ -19,6 +19,7 @@ Final Data                           | [IGFs and EEF2 Final](combined.data.final
 Statistical Code                     | [Code](Publication_Code.Rmd)
 &nbsp;                               | [Code output](Publication_Code.html)
 Sample Classification                | [Gel images](Presence.Absence.Gel.Images.pptx)
+Sequencing Verification              | [Gene Amplifications](Primer.Sequencing.Results.zip)
 
 
 ### Molecular Protocols 
