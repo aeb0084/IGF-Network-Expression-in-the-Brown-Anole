@@ -2,6 +2,7 @@
 This repository holds all supplemental files for "Gene expression of the IGF hormones and IGF binding proteins across time and tissues in a model reptile".
 
 ## Publication Abstract: 
+**Insert abstract here**
 
 ### Quick Key to File Directory: Detailed Descriptions of file use can be found below.
 ##### Protocols and interactive worksheets
