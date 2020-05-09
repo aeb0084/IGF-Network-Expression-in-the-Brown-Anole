@@ -8,7 +8,7 @@ This repository holds all supplemental files for "Gene expression of the IGF hor
 File Type | &nbsp;
 ------------------------------------ | -----------------------------------------------------
 Protocols and interactive worksheets | [Molecular Protocol](Brown.Anole.qPCR.Protocol.pdf) 
-                   &nbsp;                  | [Appendix A: Primer Design](Appendix_A.Primer_Design.txt)
+&nbsp;                               | [Appendix A: Primer Design](Appendix_A.Primer_Design.txt)
          &nbsp;                            | [Appendix B: Standard Preparation](Appendix_B.Standard.Prep.Worksheet.xlsx)
             &nbsp;                         | [Appendix C: qPCR Calculations](Appendix_C.qPCR.Calculations.xlsx)
 Raw Data                             | [Plate 1](qPCR_Plate_10_24.zip)
