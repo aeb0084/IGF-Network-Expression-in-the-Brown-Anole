@@ -6,7 +6,11 @@ This repository holds all supplemental files for "Gene expression of the IGF hor
 
 ### Supplemental Figures
 ![Supplemental Figure 1](Supp.Fig.1.jpg)
-Supplemental Figure 1:  Raw data plots for the qPCR. (A-E) Absolute standard curves were analyzed for PCR efficiency for IGF1 (green; 103.7% ; r2=1.0), IGF2 ( blue; 105.3%; r2=1.0), and EEF2 (purple; 107.0%; r2= 1.0) .  Amplification cycle and sample placement on the standard curve can also be seen for IGF1 (F & G), IGF2 (H & I) and EEF2 (J & K).
+
+![Supplemental Figure 2](Supp.Fig.2.jpg)
+
+![Supplemental Figure 3](Supp.Fig.3.jpg)
+
 
 
 
