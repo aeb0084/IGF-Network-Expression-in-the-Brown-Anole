@@ -26,8 +26,8 @@ Raw Data                             | [Plate 1](qPCR_Plate_10_24.zip)
 Final Data                           | [IGFs and EEF2 Final](combined.data.final.csv)
 &nbsp;                               | [IGF1 Undiluted](undiluted.samples.csv)
 &nbsp;                               | [Presence Absence Heatmap](heatmap.data2.csv)
-Statistical Code                     | [Code](Publication_Code.Rmd)
-&nbsp;                               | [Code output](Publication_Code.html)
+Statistical Code                     | [Code](AJP.Publication.Code.Rmd)
+&nbsp;                               | [Code output](AJP.Publication.Code.html)
 Sample Classification                | [Gel images](Presence.Absence.Gel.Images.pptx)
 Sequencing Verification              | [Gene Amplifications](Primer.Sequencing.Results.zip)
 
@@ -45,7 +45,7 @@ Raw data output files for two plates of qPCR amplification ([Plate 1](qPCR_Plate
 The [file](undiluted.samples.csv) containing undiluted amplifications of IGF1 was used in order to verify negative IGF1 results seen at a cDNA concentration of 1:100. 
 
 ### Statistical Analysis 
-The statistical analyses were performed in R (version 3.5.1) using [code](Publication_Code.Rmd) in an R Markdown format. [Code output](Publication_Code.html) displays all statistical models, results, and figures produced. 
+The statistical analyses were performed in R (version 3.5.1) using [code](AJP.Publication.Code.Rmd) in an R Markdown format. [Code output](AJP.Publication.Code.html) displays all statistical models, results, and figures produced. 
 
 ### Presence-Absence Visualization
 Following conventional PCR, gel electrophoresis was used to visualize samples as being present, or absent. [Gel images](Presence.Absence.Gel.Images.pptx) were used to classify samples. The file used to create the expression [heatmap](heatmap.data2.csv) contains the average percentage of indivdiuals that expressed each gene (IGF1, IGF2, and IGFBPs) across tissues. 
